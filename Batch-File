@@ -1,0 +1,244 @@
+@echo off 
+
+title YOU ARE LAZY
+color 02
+echo:
+echo:
+echo:
+echo:
+echo:This is the BEAUTIFUL command for your little image
+timeout /t 2 /nobreak >nul
+echo:
+echo:
+echo:So We will do the basics and Fix up this stupid Computer.
+echo:
+echo:
+timeout /t 2 /nobreak >nul
+CLS 
+echo:             DO NOT USE IF YOU ARE NOT IN MY TEAM OR I WILL GET YOU DISQUALIFIED FROM THE COMPITITION
+echo:                             AND I WILL HUMILIATE YOU IN FRONT OF YOUR TEAM!
+echo:             DO NOT USE IF YOU ARE NOT IN MY TEAM OR I WILL GET YOU DISQUALIFIED FROM THE COMPITITION
+echo:                             AND I WILL HUMILIATE YOU IN FRONT OF YOUR TEAM!
+echo:             DO NOT USE IF YOU ARE NOT IN MY TEAM OR I WILL GET YOU DISQUALIFIED FROM THE COMPITITION
+echo:                             AND I WILL HUMILIATE YOU IN FRONT OF YOUR TEAM!
+echo:             DO NOT USE IF YOU ARE NOT IN MY TEAM OR I WILL GET YOU DISQUALIFIED FROM THE COMPITITION
+echo:                             AND I WILL HUMILIATE YOU IN FRONT OF YOUR TEAM!
+echo:             DO NOT USE IF YOU ARE NOT IN MY TEAM OR I WILL GET YOU DISQUALIFIED FROM THE COMPITITION
+echo:                             AND I WILL HUMILIATE YOU IN FRONT OF YOUR TEAM!
+echo:             DO NOT USE IF YOU ARE NOT IN MY TEAM OR I WILL GET YOU DISQUALIFIED FROM THE COMPITITION
+echo:                             AND I WILL HUMILIATE YOU IN FRONT OF YOUR TEAM!
+echo:             DO NOT USE IF YOU ARE NOT IN MY TEAM OR I WILL GET YOU DISQUALIFIED FROM THE COMPITITION
+echo:                             AND I WILL HUMILIATE YOU IN FRONT OF YOUR TEAM!
+echo:             DO NOT USE IF YOU ARE NOT IN MY TEAM OR I WILL GET YOU DISQUALIFIED FROM THE COMPITITION
+echo:                             AND I WILL HUMILIATE YOU IN FRONT OF YOUR TEAM!
+color 04
+timeout /t 1 /nobreak >nul
+color 06 
+timeout /t 1 /nobreak >nul
+color 04
+timeout /t 1 /nobreak >nul
+color 06 
+timeout /t 1 /nobreak >nul
+color 04
+timeout /t 1 /nobreak >nul
+color 06 
+timeout /t 1 /nobreak >nul
+color 04
+timeout /t 1 /nobreak >nul
+color 06 
+timeout /t 1 /nobreak >nul
+color 04
+timeout /t 1 /nobreak >nul
+color 06 
+timeout /t 1 /nobreak >nul
+color 04
+timeout /t 1 /nobreak >nul
+color 06 
+timeout /t 1 /nobreak >nul
+color 04
+timeout /t 1 /nobreak >nul
+color 06 
+timeout /t 1 /nobreak >nul
+color 04
+timeout /t 1 /nobreak >nul
+color 06 
+timeout /t 1 /nobreak >nul
+color 04
+timeout /t 1 /nobreak >nul
+color 06 
+timeout /t 1 /nobreak >nul
+color 04
+timeout /t 1 /nobreak >nul
+color 06 
+timeout /t 1 /nobreak >nul
+Cls
+
+@echo off
+
+color 02 
+title THE FUN STUFF WOOT WOOT
+echo: Hacking into the mainframe
+timeout /t 1 /nobreak >nul
+echo: 
+echo:
+
+timeout /t 1 /nobreak >nul
+auditpol /set /category:"System","Account Management","Account Logon","Logon/Logoff","Policy Change" /failure:enable /success:enable
+timeout /t 2 /nobreak >nul
+Echo:Audit Policies ACTIVATED Boop BEEP B00P
+timeout /t 1 /nobreak >nul
+CLS
+echo:
+echo:
+echo:
+echo:
+echo:
+echo:                Time For The PassWord Policies
+timeout /t 1 /nobreak >nul
+net accounts /minpwlen:8
+net accounts /maxpwage:90
+net accounts /minpwage:10
+net accounts /uniquepw:5
+echo:You have to turn on Password Complexity though :/ Sorry
+echo:
+echo:
+echo:
+timeout /t 5 /nobreak >nul
+CLS
+echo:
+echo:
+echo:
+echo:Fat Buns Huns Time for the FireWall so your buns fet TOASTY
+echo:
+color 04
+echo:
+echo:
+timeout /t 1 /nobreak >nul
+echo: 
+echo: FIRE ON
+color 6
+timeout /t 1 /nobreak >nul
+echo:
+echo:Walls a BUILDING
+color 04
+timeout /t 1 /nobreak >nul
+echo:
+echo:VIRUSES BLOCKED!!!!!!!!!
+color 04
+timeout /t 1 /nobreak >nul
+color 06
+timeout /t 1 /nobreak >nul
+Netsh Advfirewall set allprofiles state on
+color 04
+timeout /t 1 /nobreak >nul
+color 06
+timeout /t 1 /nobreak >nul
+color 04
+timeout /t 1 /nobreak >nul
+color 06
+timeout /t 1 /nobreak >nul
+cls
+color 20
+echo:                   ###########
+echo:                  #           #
+echo:                 #             #
+echo:                 #             #
+echo:                @@@@@@@@@@@@@@@@@
+echo:                @@@@@@@@@@@@@@@@@
+echo:                @@@@@@@[|]@@@@@@@
+echo:                @@@@@@@@|@@@@@@@@
+echo:                @@@@@@@@|@@@@@@@@
+echo:                @@@@@@@@@@@@@@@@@
+echo:                @@@@@@@@@@@@@@@@@
+echo:          
+echo:          TIME TO LOCK UP THEM VIRUSES
+;"%ProgramFiles%\Windows Defender\MSASCui.exe" -update
+"%ProgramFiles%\Windows Defender\MSASCui.exe" -Fullscan
+Set-MpPreference -DisableRealtimeMonitoring $false
+timeout /t 6 /nobreak >nul
+echo:       H      A      P     P     Y            H      A      P      P      Y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
