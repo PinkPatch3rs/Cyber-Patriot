@@ -138,25 +138,31 @@ timeout /t 1 /nobreak >nul
 color 06
 timeout /t 1 /nobreak >nul
 cls
+
 color 20
-echo:                   ###########
-echo:                  #           #
-echo:                 #             #
-echo:                 #             #
-echo:                @@@@@@@@@@@@@@@@@
-echo:                @@@@@@@@@@@@@@@@@
-echo:                @@@@@@@[|]@@@@@@@
-echo:                @@@@@@@@|@@@@@@@@
-echo:                @@@@@@@@|@@@@@@@@
-echo:                @@@@@@@@@@@@@@@@@
-echo:                @@@@@@@@@@@@@@@@@
-echo:          
-echo:          TIME TO LOCK UP THEM VIRUSES
+echo "                   ###########               "
+echo "                  #           #              "
+echo "                 #             #             "
+echo "                 #             #             "
+echo "                @@@@@@@@@@@@@@@@@            "
+echo "                @@@@@@@@@@@@@@@@@            "
+echo "                @@@@@@@[|]@@@@@@@            "
+echo "                @@@@@@@@|@@@@@@@@            "
+echo "                @@@@@@@@|@@@@@@@@            "
+echo "                @@@@@@@@@@@@@@@@@            "
+echo "                @@@@@@@@@@@@@@@@@            "
+echo "                                             "
+echo "          TIME TO LOCK UP THEM VIRUSES       "
+timeout /t 6 /nobreak >nul
+cls 
+color 02
 ;"%ProgramFiles%\Windows Defender\MSASCui.exe" -update
 "%ProgramFiles%\Windows Defender\MSASCui.exe" -Fullscan
 Set-MpPreference -DisableRealtimeMonitoring $false
 timeout /t 6 /nobreak >nul
+timeout /t 6 /nobreak >nul
 echo:       H      A      P     P     Y            H      A      P      P      Y
+timeout /t 2 /nobreak >nul
 
 
 
